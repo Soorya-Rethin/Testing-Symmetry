@@ -25,13 +25,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.8777061"
-     inkscape:cx="392.50019"
-     inkscape:cy="293.97572"
-     inkscape:window-width="1440"
-     inkscape:window-height="872"
+     inkscape:zoom="3.1369766"
+     inkscape:cx="335.83291"
+     inkscape:cy="295.50746"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -399,7 +399,7 @@
        inkscape:export-ydpi="96" />
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.505;stroke-dasharray:none"
-       d="M 43.623538,88.6355 H 109.80208"
+       d="M 43.623538,87.2475 H 109.80208"
        id="path907-3-0"
        inkscape:export-filename="Z2_GBS.pdf"
        inkscape:export-xdpi="96"
@@ -427,7 +427,7 @@
        inkscape:export-ydpi="96" />
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.505;stroke-dasharray:none"
-       d="M 43.523958,96.555318 H 109.80208"
+       d="M 43.523958,100.5595 H 109.80208"
        id="path907-3-5" />
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.505;stroke-dasharray:none"
@@ -484,7 +484,7 @@
     <g
        clip-path="url(#clipPath3536-2)"
        id="g27-5"
-       transform="matrix(0.352778,0,0,0.352778,33.591124,78.792922)">
+       transform="matrix(0.352778,0,0,0.352778,33.591124,80.380423)">
       <g
          fill="#000000"
          fill-opacity="1"
@@ -502,7 +502,7 @@
        fill="#000000"
        fill-opacity="1"
        id="g31-7"
-       transform="matrix(0.352778,0,0,0.352778,33.591124,78.792922)"
+       transform="matrix(0.352778,0,0,0.352778,33.591124,80.380423)"
        style="image-rendering:auto">
       <g
          id="use29-1"
@@ -515,7 +515,7 @@
     <g
        clip-path="url(#clipPath6112-6)"
        id="g37-8"
-       transform="matrix(0.352778,0,0,0.352778,33.591124,78.792922)">
+       transform="matrix(0.352778,0,0,0.352778,33.591124,80.380423)">
       <g
          fill="#000000"
          fill-opacity="1"
@@ -532,7 +532,7 @@
     <g
        clip-path="url(#clipPath3536-2-5)"
        id="g27-5-3"
-       transform="matrix(0.352778,0,0,0.352778,33.652124,90.859728)">
+       transform="matrix(0.352778,0,0,0.352778,33.591591,93.505835)">
       <g
          fill="#000000"
          fill-opacity="1"
@@ -550,7 +550,7 @@
        fill="#000000"
        fill-opacity="1"
        id="g31-7-5"
-       transform="matrix(0.352778,0,0,0.352778,33.652124,90.859728)"
+       transform="matrix(0.352778,0,0,0.352778,33.591591,93.505835)"
        style="image-rendering:auto">
       <g
          id="use29-1-4"
@@ -563,7 +563,7 @@
     <g
        clip-path="url(#clipPath6112-6-5)"
        id="g37-8-1"
-       transform="matrix(0.352778,0,0,0.352778,33.652124,90.859728)">
+       transform="matrix(0.352778,0,0,0.352778,33.591591,93.505835)">
       <g
          fill="#000000"
          fill-opacity="1"
@@ -778,7 +778,7 @@
        style="fill:#ffffff;stroke:#000000;stroke-width:0.505;stroke-dasharray:none"
        id="rect1382-7-3"
        width="12.026691"
-       height="23.80159"
+       height="27.781252"
        x="55.442062"
        y="76.729164" />
     <g
@@ -820,18 +820,18 @@
     </g>
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.505;stroke-dasharray:none"
-       d="M 77.987743,88.635417 V 66.193"
+       d="M 78.0875,87.265333 V 66.193"
        id="path1154" />
     <ellipse
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.257991"
        id="path1208"
-       cx="77.989502"
+       cx="78.0895"
        cy="66.172005"
        rx="0.88650435"
        ry="0.88650447" />
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.505;stroke-dasharray:none"
-       d="M 99.188742,90.94804 V 58.229328"
+       d="M 99.188742,89.429167 V 58.229328"
        id="path1154-6" />
     <ellipse
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.257991"
@@ -842,7 +842,7 @@
        ry="0.88650447" />
     <path
        style="fill:#ffffff;stroke:#000000;stroke-width:0.505;stroke-dasharray:none"
-       d="M 88.635734,88.635417 V 62.224496"
+       d="M 88.635734,87.3125 V 62.224496"
        id="path1154-0" />
     <ellipse
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.257991"
@@ -877,7 +877,7 @@
        inkscape:path-effect="#path-effect3315-5"
        inkscape:original-d="m 134.73757,62.712 c 4.03566,2.64e-4 8.07105,2.64e-4 12.10618,0" />
     <g
-       transform="matrix(0.67158993,0,0,0.67158993,58.024344,85.714501)"
+       transform="matrix(0.67158993,0,0,0.67158993,58.024344,87.931336)"
        ns5:version="1.8.1"
        ns5:texconverter="pdflatex"
        ns5:pdfconverter="inkscape"
@@ -994,7 +994,7 @@
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.257991"
        id="path1208-4"
        cx="78.052086"
-       cy="88.677498"
+       cy="87.289497"
        rx="0.88650435"
        ry="0.88650447" />
     <ellipse
@@ -1018,16 +1018,16 @@
        inkscape:original-d="m 90.642835,78.713454 c -1.322776,1.323173 -2.645748,2.646146 -3.968921,3.968922" />
     <path
        style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.505;stroke-dasharray:none"
-       d="m 86.673543,86.650954 c 1.323173,1.323173 2.646145,2.646146 3.96892,3.968921"
+       d="m 86.673543,85.363545 c 1.323173,1.323173 2.646145,2.646146 3.96892,3.968921"
        id="path8111-8"
        inkscape:path-effect="#path-effect8113-9"
-       inkscape:original-d="m 86.673543,86.650954 c 1.323173,1.323173 2.646146,2.646145 3.96892,3.968921" />
+       inkscape:original-d="m 86.673543,85.363545 c 1.323173,1.323173 2.646146,2.646145 3.96892,3.968921" />
     <path
        style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.505;stroke-dasharray:none"
-       d="M 90.642834,86.650953 C 89.31986,87.973928 87.996887,89.2969 86.673913,90.619875"
+       d="m 90.642834,85.363544 c -1.322974,1.322975 -2.645947,2.645947 -3.968921,3.968922"
        id="path8115-9"
        inkscape:path-effect="#path-effect8117-2"
-       inkscape:original-d="m 90.642834,86.650953 c -1.322776,1.323173 -2.645748,2.646146 -3.968921,3.968922"
+       inkscape:original-d="m 90.642834,85.363544 c -1.322776,1.323173 -2.645748,2.646146 -3.968921,3.968922"
        inkscape:export-filename="Dihedral_GBS.pdf"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
@@ -1041,7 +1041,7 @@
        style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.505;stroke-dasharray:none"
        id="path15632-9"
        cx="99.181999"
-       cy="88.635414"
+       cy="87.247704"
        inkscape:export-filename="Dihedral_GBS.pdf"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
